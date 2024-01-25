@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri : /Users/mohamedsameem/Documents/Project/todo/src/main/resources/application.yaml
-      database : todo_db
