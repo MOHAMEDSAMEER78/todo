@@ -9,11 +9,11 @@ import java.util.List;
 import java.util.Objects;
 
 @RestController
-public class Notes_Controller {
+public class NotesController {
     @Autowired
     private final Notes_Repository note_Repository;
 
-    public Notes_Controller(Notes_Repository note_Repository) {
+    public NotesController(Notes_Repository note_Repository) {
         this.note_Repository = note_Repository;
     }
 
