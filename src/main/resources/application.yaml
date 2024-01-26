@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://<username>:<password>@cluster0.k4yqwf6.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://mohamedsameermms:FeTQZRIDGxcRrTCd@cluster0.k4yqwf6.mongodb.net/?retryWrites=true&w=majority
       database: todo
       auto-index-creation: true
